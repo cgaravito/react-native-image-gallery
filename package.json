@@ -1,8 +1,9 @@
 {
   "name": "react-native-image-gallery-cg",
-  "version": "2.2.0",
+  "version": "2.2.3",
   "description": "Pure JavaScript image gallery component for iOS and Android",
   "main": "src/Gallery.js",
+  "types": "@types/react-native-image-gallery-cg.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
